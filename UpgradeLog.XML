@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Time_and_Attendance">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2008\Projects\Time_and_Attendance\Time_and_Attendance.sln">
+</Property><Property Name="Date" Value="Wednesday, July 20, 2011">
+</Property><Property Name="Time" Value="12:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Time_and_Attendance" Source="Time_and_Attendance\Time_and_Attendance.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Time_and_Attendance" Source="Time_and_Attendance\Time_and_Attendance.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Time_and_Attendance.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Time_and_Attendance.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Time_and_Attendance" Source="Time_and_Attendance\Time_and_Attendance.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+bin\Debug\Time_and_Attendance.exe
+bin\Debug\Time_and_Attendance.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Time_and_Attendance.frmCompanyMaster.resources
+obj\Debug\Time_and_Attendance.frmManageTnA.resources
+obj\Debug\Time_and_Attendance.frmServerPath.resources
+obj\Debug\Time_and_Attendance.TAA.resources
+obj\Debug\Time_and_Attendance.Properties.Resources.resources
+obj\Debug\Time_and_Attendance.csproj.GenerateResource.Cache
+obj\Debug\Time_and_Attendance.exe
+obj\Debug\Time_and_Attendance.pdb

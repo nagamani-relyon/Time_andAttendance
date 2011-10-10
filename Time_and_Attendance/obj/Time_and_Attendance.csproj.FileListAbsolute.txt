@@ -1,0 +1,11 @@
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\obj\Debug\Time_and_Attendance.exe
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\obj\Debug\Time_and_Attendance.pdb
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\bin\Debug\Time_and_Attendance.exe
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\bin\Debug\Time_and_Attendance.pdb
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\obj\Debug\Time_and_Attendance.frmCompanyMaster.resources
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\obj\Debug\Time_and_Attendance.frmManageTnA.resources
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\obj\Debug\Time_and_Attendance.frmServerPath.resources
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\obj\Debug\Time_and_Attendance.TAA.resources
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\obj\Debug\Time_and_Attendance.Properties.Resources.resources
+C:\Documents and Settings\Nagamani\My Documents\Visual Studio 2005\Projects\Time_and_Attendance\Time_and_Attendance\obj\Debug\Time_and_Attendance.csproj.GenerateResource.Cache
